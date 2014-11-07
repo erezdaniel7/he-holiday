@@ -1,6 +1,6 @@
 # heHoliday.js
 
-The heHoliday is small function base on [`heholiday`](https://github.com/daniellevanon/he-date) project that return the Jewish holiday and Event.
+The heHoliday is small function base on [`heDate.js`](https://github.com/daniellevanon/he-date) project that return the Jewish holiday and Event.
 
 HeDate site http://he-date.info/site.html (Hebrew)
 
@@ -35,7 +35,7 @@ http://he-date.info/public/demoHoliday.html
 
 ## License
  
-Copyright (c) 2004-2014 (ה'תשס"ד -ה'תשע"ה) daniel levanon (daniellevanon@gmail.com)
+Copyright (c) 2014 (ה'תשע"ה) daniel levanon (daniellevanon@gmail.com)
 
 HeDate may be freely distributed under the MIT license. (see LICENSE.md file)
  
