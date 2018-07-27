@@ -1,6 +1,6 @@
 //     heholiday.js 1.0.0
 //     http://he-Date.info/site.html
-//     (c) 2014 (ה'תשע"ה) - daniel levanon (daniellevanon@gmail.com)
+//     (c) 2014 (ה'תשע"ה) - Daniel Erez (erezdaniel7@gmail.com)
 //     Heholiday may be freely distributed under the MIT license.
 
 function getJwishHoliday(heDate){

@@ -1,0 +1,9 @@
+{
+  "name": "he-holiday-ics-generator",
+  "authors": [
+    "daniel erez <erezdaniel7@gmail.com>"
+  ],
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
