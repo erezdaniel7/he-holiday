@@ -65,9 +65,9 @@ function getJwishHoliday(heDate){
             else if (heDate.getDate()==20) return "ה' חוה\"מ";
             else if (heDate.getDate()==21) return "שביעי של פסח";
             if (heDate.getYear()>=5711){
-                if (heDate.getDate()==26 && heDate.getDay()==5) return "יום הזיכרון לשאוה ולגבורה (מוקדם)";
-                else if (heDate.getDate()==28 && heDate.getDay()==2 && heDate.getYear()>=5757) return "יום הזיכרון לשאוה ולגבורה (נדחה)";
-                else if (heDate.getDate()==27 && heDate.getDay()!=6 && (heDate.getDay()!=1 | heDate.getYear()<5757)) return "יום הזיכרון לשאוה ולגבורה";
+                if (heDate.getDate()==26 && heDate.getDay()==5) return "יום הזיכרון לשואה ולגבורה (מוקדם)";
+                else if (heDate.getDate()==28 && heDate.getDay()==2 && heDate.getYear()>=5757) return "יום הזיכרון לשואה ולגבורה (נדחה)";
+                else if (heDate.getDate()==27 && heDate.getDay()!=6 && (heDate.getDay()!=1 | heDate.getYear()<5757)) return "יום הזיכרון לשואה ולגבורה";
             }
             break;                                    
         case 9://אייר
