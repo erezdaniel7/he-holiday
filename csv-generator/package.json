@@ -1,0 +1,10 @@
+{
+  "name": "he-holiday-csv-generator",
+  "authors": [
+    "daniel erez <erezdaniel7@gmail.com>"
+  ],
+  "dependencies": {
+    "csv-writer": "^1.3.0",
+    "moment": "^2.24.0",
+  }
+}
